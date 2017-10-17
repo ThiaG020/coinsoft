@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/pe/edu/utp/coinsoftwebprofile/controllers/prueba.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -246,7 +246,7 @@
       <workItem from="1508213012777" duration="79000" />
       <workItem from="1508213453406" duration="290000" />
       <workItem from="1508216259916" duration="326000" />
-      <workItem from="1508220281327" duration="1359000" />
+      <workItem from="1508220281327" duration="1472000" />
     </task>
     <task id="LOCAL-00001" summary="Es necesario un mensaje">
       <created>1508213567434</created>
@@ -276,11 +276,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508256692883</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="obligatorio comentar">
+      <created>1508256954463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508256954463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2215000" />
+    <option name="totallyTimeSpent" value="2328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -399,7 +406,7 @@
     <entry file="file://$PROJECT_DIR$/src/pe/edu/utp/coinsoftwebprofile/controllers/prueba.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
